@@ -1,0 +1,16 @@
+# 排除文件
+__pycache__/
+*.pyc
+*.pyo
+*.log
+temp/
+output/
+dist/
+build/
+*.spec
+.qwen/
+hash_chain.json
+.zread
+
+# 排除父目录文件
+../
